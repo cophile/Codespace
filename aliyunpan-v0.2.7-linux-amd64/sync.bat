@@ -1,4 +1,9 @@
 @echo off
+@echo off
+@echo off
+@echo off
+@echo off
+
 
 REM 配置环境变量
 REM set ALIYUNPAN_CONFIG_DIR=d:\path\to\your\aliyunpan\config
